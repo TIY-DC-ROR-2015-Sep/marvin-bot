@@ -19,3 +19,5 @@ gem 'figaro'
 gem 'tubesock'
 gem 'puma'
 gem 'pry-rails'
+
+gem 'darksky'
